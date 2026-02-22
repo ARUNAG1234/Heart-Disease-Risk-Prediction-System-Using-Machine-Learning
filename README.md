@@ -46,6 +46,4 @@ Tools
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook
 
-Developed For
 
-Pre-Final Year academic project and placement preparation.
