@@ -5,8 +5,11 @@ A machine learning based system to predict the risk of heart disease and classif
 Objectives
 
 Build a heart disease risk prediction model
+
 Compare multiple machine learning algorithms
+
 Evaluate models using Precision, Recall and F1-score
+
 Visualize feature correlations and prediction results
 
 Dataset
